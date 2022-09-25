@@ -1,0 +1,54 @@
+q32x48.bin
+uncompressed: 1536 bits
+compressed: 816 bits
+ratio: 53.125%
+
+genomeVirus.txt
+uncompressed: 50008 bits
+compressed: 12576 bits
+ratio: 25.15%
+
+medTale.txt
+uncompressed: 45056 bits
+compressed: 23912 bits
+ratio: 53.07%
+
+mobydick.txt
+uncompressed: 5145680 bits
+compressed: 2921328 bits
+ratio: 56.77%
+
+q32x48_comp.bin
+decompressed: 1536 bits
+
+genomeVirus_comp.txt
+decompressed: 50008 bits
+
+medTale_comp.txt
+decompressed: 45056 bits
+
+mobydick_comp.txt
+decompressed: 5145680 bits
+
+q32x48_comp.bin
+compressed once: 816 bits
+compressed twice: 1272 bits
+
+genomeVirus_comp2
+compressed once: 12576 bits
+compressed twice: 14896 bits
+
+medTale_comp2
+compressed once: 23912 bits
+compressed twice: 25960 bits
+
+mobydick_comp2
+compressed once: 2921328 bits
+compressed twice : 2891504 bits
+
+q32x48.bin RLE
+uncompressed: 1536 bits
+compressed: 1144 bits
+ratio: 74.48%
+
+
