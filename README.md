@@ -1,5 +1,5 @@
-# cv-projects
-# algorithms-repo-ByronOG
+# cv-projects-algorithms
+
 algorithms-repo-ByronOG created by GitHub Classroom
 ## This file gives a brief description of each algorithm in the repository
 # Package 1
