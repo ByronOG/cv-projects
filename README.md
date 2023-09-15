@@ -1,6 +1,6 @@
-# cv-projects-algorithms
-
-algorithms-repo-ByronOG created by GitHub Classroom
+# fundamental-cs-algorithms
+This repository contains several fundamental algorithms used in Computer Science. 
+I implemented these algorithms as a part of my coursework at UCD.
 ## This file gives a brief description of each algorithm in the repository
 # Package 1
 ## Russian Peasant Algorithm
